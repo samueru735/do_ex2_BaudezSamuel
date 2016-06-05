@@ -15,7 +15,7 @@
   sudo: yes
   vars:
     # https://github.com/samueru735/do2_site/releases
-    app_version: release-0.01
+    app_version: release-1.0.0
   serial: 1
 
   pre_tasks:
